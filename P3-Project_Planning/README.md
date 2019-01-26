@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
- * [Login] (https://github.com/HariniDiya/liftoff-assignments/P3-Project_Planning/Login.jpg)
+ * [Login] (https://github.com/HariniDiya/liftoff-assignments/blob/master/P3-Project_Planning/Login.jpg)
 
 ### Project Tracker
 
